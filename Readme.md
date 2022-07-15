@@ -42,6 +42,9 @@ Kai bai life  learning
 2.  待定
 3.  待定
 
+#### 可能增加功能 
+1.  命令行，dsl解释器，workflow，，command line，log
+
 #### 参与贡献
 待定  
 
